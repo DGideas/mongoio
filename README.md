@@ -8,7 +8,7 @@ Possibly the most comfortable MongoDB Import/Export tools written on Python.
 * Support import from a json array file
 * Support export data to a json array file
 * Realtime ETA
-* 
+* And more...
 
 # Download
 ````wget https://raw.githubusercontent.com/DGideas/mongoio/master/mongoio.py````
@@ -31,7 +31,7 @@ Possibly the most comfortable MongoDB Import/Export tools written on Python.
 ./mongoio.py import something_cool.json --db=universe --coll=earth
 ````
 
-# Depend
+# Dependency
 It depends on ```pymongo```, just use ```pip3 install pymongo``` install it!
 
 # Author
